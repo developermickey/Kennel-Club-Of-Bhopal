@@ -1289,7 +1289,7 @@ table p {
 }
 @media only screen and (max-width: 1399.98px) {
   .header-logo-area img {
-    max-width: 120px;
+    max-width: 80px;
   }
 }
 .header-logo-area .logo-light {
